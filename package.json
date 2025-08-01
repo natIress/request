@@ -82,5 +82,8 @@
       "hawk",
       "har-validator"
     ]
+  },
+  "resolutions": {
+    "form-data": "git+https://github.com/natIress/form-data.git#fix/SDSADVICE-2583-form-data-v2.3.2"
   }
 }
